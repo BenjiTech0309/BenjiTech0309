@@ -57,16 +57,21 @@ Experienced with PostgreSQL for data modeling and complex query optimization. St
 
 ---
 
-## GitHub Stats
+## Most Used Languages
 
 <p align="left">
-<a href="https://github.com/benjitech0309">
-<img src="https://github-readme-stats.vercel.app/api?username=benjitech0309&show_icons=true&hide_border=true" alt="Benjamin's GitHub Stats" />
-</a>
+<img src="https://img.shields.io/badge/JavaScript-45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 45%" />
+<img src="https://img.shields.io/badge/TypeScript-35%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 35%" />
+<img src="https://img.shields.io/badge/Ruby-20%25-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby 20%" />
 </p>
 
+---
+
+## Currently Building
+
 <p align="left">
-<a href="https://github.com/benjitech0309">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjitech0309&layout=compact&hide_border=true" alt="Top Languages" />
-</a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
