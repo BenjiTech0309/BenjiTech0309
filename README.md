@@ -64,27 +64,16 @@
   </tr>
 </table>
 
-<h3 align="center">📊 Most Used Languages</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-35%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Ruby-20%25-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Experience-7%2B%20years-2ea44f?style=for-the-badge" alt="7+ years experience" />
-    <img src="https://img.shields.io/badge/Role-Senior%20Full%20Stack-0e75b6?style=for-the-badge" alt="Senior Full Stack" />
-    <img src="https://img.shields.io/badge/Location-Hong%20Kong-8957e5?style=for-the-badge" alt="Hong Kong" />
-    <img src="https://img.shields.io/badge/Open%20to-Collab-fb8500?style=for-the-badge" alt="Open to collab" />
-</p>
-
 <p align="center">
     <a href="https://roadmap.sh/u/benjitech0309">
         <img src="https://roadmap.sh/card/wide/683ed4b3308e90f4466a5fb9?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Cdevops" width="49.9%" alt="roadmap.sh" />
     </a>
-    <a href="https://github.com/benjitech0309">
-        <img src="https://streak-stats.demolab.com?user=benjitech0309&theme=gotham&hide_border=true" width="49.9%" alt="GitHub Streak" />
-    </a>
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0e75b6,100:8957e5&height=170&section=header&text=Senior%20Full%20Stack&fontColor=ffffff&fontSize=32&desc=7%2B%20years%20%C2%B7%2050%2B%20projects%20%C2%B7%20Hong%20Kong&descSize=16&descAlignY=70" width="48.1%" alt="Senior Full Stack" />
+</p>
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:F7DF1E,50:3178C6,100:CC342D&height=170&section=header&text=Most%20Used%20Languages&fontColor=ffffff&fontSize=26&desc=JavaScript%2045%25%20%C2%B7%20TypeScript%2035%25%20%C2%B7%20Ruby%2020%25&descSize=15&descAlignY=70" width="48.1%" alt="Most Used Languages" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2ea44f,100:0e75b6&height=170&section=header&text=Currently%20Building&fontColor=ffffff&fontSize=30&desc=Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Rails%20%C2%B7%20GraphQL&descSize=15&descAlignY=70" width="49.9%" alt="Currently Building" />
 </p>
 
 <p align="center">
