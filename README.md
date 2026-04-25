@@ -1,77 +1,83 @@
-## Hi I'm Benjamin Mei <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<div>
+    <img align="right" src="https://komarev.com/ghpvc/?username=benjitech0309&label=👁️&color=0e75b6&style=flat" alt="benjitech0309" />
+</div>
 
-I'm Benjamin Mei, a Senior Full Stack Developer. I spend most of my time architecting scalable web and mobile applications or exploring new patterns in modern JavaScript ecosystems.
+<h1 align="center">Hello 👋, welcome to my corner of github.</h1>
 
-## About Me
-
-Senior Full Stack Developer with 7+ years of experience in web and mobile app design, construction, and scalability across various industries. Expert in modern JavaScript ecosystems, utilizing React and React Native for user interfaces, alongside robust backend development with Node.js (Express) and Ruby on Rails. Proven skill in architecting end-to-end solutions, enhancing application performance, and maintaining scalable codebases.
-
-Experienced with PostgreSQL for data modeling and complex query optimization. Strong collaborator in cross-functional teams, contributing to system design and delivering high-quality products in dynamic environments. I'm passionate about clean architecture, performance tuning, and shipping reliable software that scales.
-
-📫 Reach me at: **benjimei0309@outlook.com**
-📍 Based in **Sai Kung, Hong Kong**
-
----
-
-## Skills
-
-### Technologies
-
-<p align="left">
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/> </a>
-<a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Expo" width="40" height="40"/> </a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> </a>
-<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> </a>
-<a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=React+%26+React+Native+%7C+Cross-platform+UIs+that+ship;Node.js+%26+Ruby+on+Rails+%7C+APIs%2C+GraphQL%2C+microservices;PostgreSQL+%2B+AWS+%2B+Docker+%7C+Scale%2C+performance%2C+clean+architecture" alt="Typing SVG" />
+</p>
+<p align="center">
+    <a href="https://github.com/benjitech0309?tab=achievements"><img src="https://github-trophies.vercel.app/?username=benjitech0309&theme=onestar&no-frame=true&column=6&row=2" alt="benjitech0309" /></a>
 </p>
 
-| Category | Technologies |
-|---|---|
-| **Frontend Development** | React, Next.js, Redux, Material UI, Ant Design, Responsive UI/UX |
-| **Mobile Development** | React Native, Expo, Cross-platform (iOS / Android) |
-| **Backend Development** | Node.js, Express.js, Ruby on Rails, REST APIs, GraphQL, Microservices |
-| **Programming Languages** | JavaScript (ES6+), TypeScript, Ruby, Python, Java, C/C++, SQL |
-| **Databases** | PostgreSQL, MySQL, Database Design, Query Optimization, Indexing |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda, RDS), Docker, CI/CD Pipelines |
-| **Tools & Practices** | Git, GitHub, Postman, Linux, Agile/Scrum, Code Review, System Design |
+<ul align="left">
+  <li>
+    🌱 &nbsp;<b>Currently digging deeper into</b> system design at scale, modern React patterns (Server Components, Suspense), and Rails performance tuning.
+  </li>
+  <li>
+    🤝 &nbsp;<b>Open to collaborate on</b> production web/mobile apps, GraphQL APIs, and end-to-end architectures. Hard problems, clear scope, real impact.
+  </li>
+  <li>
+    💼 &nbsp;<b>7+ years</b> shipping React, React Native, Next.js, Node.js (Express), and Ruby on Rails across multiple industries.
+  </li>
+  <li>
+    📂 &nbsp;<b>Most of my work lives at</b> <a href="https://github.com/benjitech0309?tab=repositories">@benjitech0309</a>. Side projects and experiments included.
+  </li>
+  <li>
+    💬 &nbsp;<b>Ask me about</b> JavaScript/TypeScript, React/React Native, Node.js, Rails, PostgreSQL, AWS, and system design.
+  </li>
+  <li>
+    📫 &nbsp;<b>Reach me at</b> <a href="mailto:benjimei0309@outlook.com">benjimei0309@outlook.com</a>. I reply.
+  </li>
+  <li>
+    😄 &nbsp;<b>Fun fact:</b> I refactor in my head while waiting for the kettle. The kettle usually wins.
+  </li>
+</ul>
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>React</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /><br>Next.js</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" /><br>Redux</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br>Tailwind</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Material UI" /><br>Material UI</td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /><br>Express</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ruby" width="40" height="40" alt="Ruby" /><br>Ruby</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rails" width="40" height="40" alt="Rails" /><br>Rails</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" /><br>GraphQL</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br>Python</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br>Java</td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br>AWS</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /><br>Docker</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /><br>Linux</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /><br>GitHub</td>
+  </tr>
+</table>
 
-## Most Used Languages
-
-<p align="left">
-<img src="https://img.shields.io/badge/JavaScript-45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 45%" />
-<img src="https://img.shields.io/badge/TypeScript-35%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 35%" />
-<img src="https://img.shields.io/badge/Ruby-20%25-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby 20%" />
+<p align="center">
+    <a href="https://roadmap.sh/u/benjitech0309">
+        <img src="https://roadmap.sh/card/wide/683ed4b3308e90f4466a5fb9?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Cdevops" width="49.9%" alt="roadmap.sh" />
+    </a>
+    <a href="https://github.com/benjitech0309?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api?username=benjitech0309&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" width="48.1%" alt="GitHub Stats" />
+    </a>
 </p>
 
----
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=benjitech0309&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Benjamin%20Mei%27s%20activity%20in%20the%20past%2030%20days" width="98%" alt="@benjitech0309's activity graph" />
+</p>
 
-## Currently Building
-
-<p align="left">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+<p align="center">
+    <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer" />
 </p>
