@@ -4,10 +4,9 @@
 
 <h1 align="center">Hello 👋, welcome to my github.</h1>
 
-<p align="center">
+<div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=React+%26+React+Native+%7C+Cross-platform+UIs+that+ship;Node.js+%26+Ruby+on+Rails+%7C+APIs%2C+GraphQL%2C+microservices;PostgreSQL+%2B+AWS+%2B+Docker+%7C+Scale%2C+performance%2C+clean+architecture" alt="Typing SVG" />
-</p>
-
+</div>
 <ul align="left">
   <li>
     🌱 &nbsp;<b>Currently digging deeper into</b> system design at scale, modern React patterns (Server Components, Suspense), and Rails performance tuning.
