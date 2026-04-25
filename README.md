@@ -8,10 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=React+%26+React+Native+%7C+Cross-platform+UIs+that+ship;Node.js+%26+Ruby+on+Rails+%7C+APIs%2C+GraphQL%2C+microservices;PostgreSQL+%2B+AWS+%2B+Docker+%7C+Scale%2C+performance%2C+clean+architecture" alt="Typing SVG" />
 </p>
 
-<p align="center">
-    <a href="https://github.com/benjitech0309?tab=achievements"><img src="https://github-trophies.vercel.app/?username=benjitech0309&theme=onestar&no-frame=true&column=6&row=2" alt="benjitech0309" /></a>
-</p>
-
 <ul align="left">
   <li>
     🌱 &nbsp;<b>Currently digging deeper into</b> system design at scale, performance tuning, and modern React patterns (Server Components, Suspense, edge rendering).
