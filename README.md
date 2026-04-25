@@ -2,13 +2,10 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=benjitech0309&label=👁️&color=0e75b6&style=flat" alt="benjitech0309" />
 </div>
 
-<h1 align="center">Hello 👋, welcome to my corner of github.</h1>
+<h1 align="center">Hello 👋, welcome to my github.</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=React+%26+React+Native+%7C+Cross-platform+UIs+that+ship;Node.js+%26+Ruby+on+Rails+%7C+APIs%2C+GraphQL%2C+microservices;PostgreSQL+%2B+AWS+%2B+Docker+%7C+Scale%2C+performance%2C+clean+architecture" alt="Typing SVG" />
-</p>
-<p align="center">
-    <a href="https://github.com/benjitech0309?tab=achievements"><img src="https://github-trophies.vercel.app/?username=benjitech0309&theme=onestar&no-frame=true&column=6&row=2" alt="benjitech0309" /></a>
 </p>
 
 <ul align="left">
@@ -31,7 +28,7 @@
     📫 &nbsp;<b>Reach me at</b> <a href="mailto:benjimei0309@outlook.com">benjimei0309@outlook.com</a>. I reply.
   </li>
   <li>
-    😄 &nbsp;<b>Fun fact:</b> I refactor in my head while waiting for the kettle. The kettle usually wins.
+    😄 &nbsp;<b>Fun fact:</b> When I'm writing code, I usually have a lollipop in my mouth.
   </li>
 </ul>
 
@@ -64,19 +61,6 @@
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /><br>GitHub</td>
   </tr>
 </table>
-
-<p align="center">
-    <a href="https://roadmap.sh/u/benjitech0309">
-        <img src="https://roadmap.sh/card/wide/683ed4b3308e90f4466a5fb9?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Cdevops" width="49.9%" alt="roadmap.sh" />
-    </a>
-    <a href="https://github.com/benjitech0309?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=benjitech0309&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" width="48.1%" alt="GitHub Stats" />
-    </a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=benjitech0309&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Benjamin%20Mei%27s%20activity%20in%20the%20past%2030%20days" width="98%" alt="@benjitech0309's activity graph" />
-</p>
 
 <p align="center">
     <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer" />
