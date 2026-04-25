@@ -4,10 +4,9 @@
 
 <h1 align="center">Hi, I'm Benjamin Mei 👋 — Senior Full Stack Developer</h1>
 
-<p align="center">
+<div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=React+%26+React+Native+%7C+Cross-platform+UIs+that+ship;Node.js+%26+Ruby+on+Rails+%7C+APIs%2C+GraphQL%2C+microservices;PostgreSQL+%2B+AWS+%2B+Docker+%7C+Scale%2C+performance%2C+clean+architecture" alt="Typing SVG" />
-</p>
-
+</div>
 <ul align="left">
   <li>
     🌱 &nbsp;<b>Currently digging deeper into</b> system design at scale, performance tuning, and modern React patterns (Server Components, Suspense, edge rendering).
@@ -65,18 +64,23 @@
   </tr>
 </table>
 
+<h3 align="center">📊 Most Used Languages</h3>
 <p align="center">
-    <a href="https://roadmap.sh/u/benjitech0309">
-        <img src="https://roadmap.sh/card/wide/683ed4b3308e90f4466a5fb9?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Cdevops" width="49.9%" alt="roadmap.sh" />
-    </a>
-    <a href="https://github.com/benjitech0309?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=benjitech0309&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" width="48.1%" alt="GitHub Stats" />
-    </a>
+    <img src="https://img.shields.io/badge/JavaScript-45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-35%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Ruby-20%25-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
 </p>
 
 <p align="center">
-    <a href="https://github.com/benjitech0309?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjitech0309&layout=compact&theme=gotham&hide_border=true" width="48.1%" alt="Top Languages" />
+    <img src="https://img.shields.io/badge/Experience-7%2B%20years-2ea44f?style=for-the-badge" alt="7+ years experience" />
+    <img src="https://img.shields.io/badge/Role-Senior%20Full%20Stack-0e75b6?style=for-the-badge" alt="Senior Full Stack" />
+    <img src="https://img.shields.io/badge/Location-Hong%20Kong-8957e5?style=for-the-badge" alt="Hong Kong" />
+    <img src="https://img.shields.io/badge/Open%20to-Collab-fb8500?style=for-the-badge" alt="Open to collab" />
+</p>
+
+<p align="center">
+    <a href="https://roadmap.sh/u/benjitech0309">
+        <img src="https://roadmap.sh/card/wide/683ed4b3308e90f4466a5fb9?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Cdevops" width="49.9%" alt="roadmap.sh" />
     </a>
     <a href="https://github.com/benjitech0309">
         <img src="https://streak-stats.demolab.com?user=benjitech0309&theme=gotham&hide_border=true" width="49.9%" alt="GitHub Streak" />
